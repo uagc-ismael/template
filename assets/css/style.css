@@ -2531,7 +2531,7 @@ header .header-menu-trigger:focus {
 }
 
 .offcanvas-navigation {
-  overflow-y: visible;
+  overflow-y: scroll;
   height: 400px;
   margin: 0 -40px;
   padding: 0 40px;
